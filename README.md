@@ -2,7 +2,9 @@
 ### Hi there 👋 
 <br/>
 
-I'm Studying Java, Spring, SpringBoot
+I'm Studying Java, Spring, SpringBoot...
+
+But! now I'm studing Salesforce!📚📚
 
 <br/>
 
