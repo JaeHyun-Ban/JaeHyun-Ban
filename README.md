@@ -4,8 +4,6 @@
 
 I'm Studying Java, Spring, SpringBoot...
 
-But! now I'm studing Salesforce!📚📚
-
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHyun-Ban&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
