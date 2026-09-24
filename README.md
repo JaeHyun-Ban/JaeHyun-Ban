@@ -1,9 +1,3 @@
-
-### Hi there 👋 
-<br/>
-
-I'm Studying Java, Spring, SpringBoot...
-
 ### Get in Touch
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaehyeon-ban-317645235/)](https://www.linkedin.com/in/jaehyeon-ban-317645235/)
