@@ -1,10 +1,3 @@
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/-이메일-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wogus0008@gmail.com)
-[![https://www.linkedin.com/in/jaehyeon-ban-317645235/](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaehyeon-ban-317645235/)
-
-<br/>
-
 ## 🛠 Tech Stack
 
 **Backend**&nbsp;
